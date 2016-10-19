@@ -11,6 +11,7 @@ import com.example.dannyang27.sportpoints.R;
 public class alta extends AppCompatActivity {
 
     private Button atras;
+   //
     private Button siguiente;
 
 
